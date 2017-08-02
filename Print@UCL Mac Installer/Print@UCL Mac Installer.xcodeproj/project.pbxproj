@@ -12,6 +12,7 @@
 		398CFBEA1F31F03B006F8A0C /* AppDelegate.applescript in Sources */ = {isa = PBXBuildFile; fileRef = 398CFBE91F31F03B006F8A0C /* AppDelegate.applescript */; };
 		398CFBEC1F31F03B006F8A0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 398CFBEB1F31F03B006F8A0C /* Assets.xcassets */; };
 		398CFBEF1F31F03B006F8A0C /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 398CFBED1F31F03B006F8A0C /* MainMenu.xib */; };
+		398CFBF71F3220AB006F8A0C /* Print UCL Install.scpt in Resources */ = {isa = PBXBuildFile; fileRef = 398CFBF61F3220AB006F8A0C /* Print UCL Install.scpt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		398CFBEB1F31F03B006F8A0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		398CFBEE1F31F03B006F8A0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		398CFBF01F31F03B006F8A0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		398CFBF61F3220AB006F8A0C /* Print UCL Install.scpt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Print UCL Install.scpt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 				398CFBE51F31F03B006F8A0C /* Print@UCL Mac Installer */,
 				398CFBE21F31F03B006F8A0C /* Frameworks */,
 				398CFBE11F31F03B006F8A0C /* Products */,
+				398CFBF61F3220AB006F8A0C /* Print UCL Install.scpt */,
 			);
 			sourceTree = "<group>";
 		};
@@ -142,6 +145,7 @@
 			files = (
 				398CFBEC1F31F03B006F8A0C /* Assets.xcassets in Resources */,
 				398CFBEF1F31F03B006F8A0C /* MainMenu.xib in Resources */,
+				398CFBF71F3220AB006F8A0C /* Print UCL Install.scpt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
