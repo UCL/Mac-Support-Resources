@@ -23,9 +23,9 @@ The user will also need to install UCL-approved anti-virus software. This softwa
 2. Enter `vpn.ucl.ac.uk` for the server name.
 3. Click 'Connect'.
 4. Enter the following details:
-  - Group: RemoteAccess
-  - Username: UCL userID
-  - Password: UCL Password
+    - Group: RemoteAccess
+    - Username: UCL userID
+    - Password: UCL Password
 5. Click 'OK'.
 
 ## Disconnecting
