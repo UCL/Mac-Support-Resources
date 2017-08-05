@@ -13,12 +13,12 @@ There are five UCL services that we consider especially important for all users 
 - Filestore@UCL
 - print@UCL
 - Remote Access, which is comprised of:
-  - Desktop@UCL Anywhere
-  - UCL VPN
+    - Desktop@UCL Anywhere
+    - UCL VPN
 - live@UCL - the Email and Calendar components of Office 365
 - Networking, which is comprised of:
-  - eduroam Wi-Fi
-  - Wired Ethernet
+    - eduroam Wi-Fi
+    - Wired Ethernet
 
 ## Find Us on Slack
 Anyone with a UCL email address can [join our Slack team](https://ucl-mac-support.slack.com) and chat with the project team and each other.
