@@ -1,7 +1,11 @@
 # Mac Support Resources
+## Caution - Here Be Dragons!
+
+The documentation and tools (scripts, apps, training, etc) in this repository are in development and are intended for IT technicians who fully understand what they are doing and can independently verify the code. These tools could result in data loss, even if used properly. Some are designed to cause data loss. For end user support, please visit the [UCL ISD site](http://www.ucl.ac.uk/isd/).
+
 ## Training Materials and Support Resources for macOS at UCL.
 
-This repository contains training, tools and documentation Mac support across UCL. The aim of this service is to raise the standard of support for Apple macOS devices across the UCL campus by providing the documentation, support and resources needed for both the central ISD Service Desk and various local departmental IT support teams to fully support their Mac users.
+This repository contains training, tools and documentation for Mac support across UCL. The aim of this service is to raise the standard of support for Apple macOS devices across the UCL campus by providing the documentation, support and resources needed for both the central ISD Service Desk and various central and local departmental IT support teams to fully support their Mac users.
 
 ## Tools and Resources Intended for UCL IT Technicians.
 
