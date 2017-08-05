@@ -10,12 +10,12 @@ This repository is managed by the UCL Mac Support Service and these materials ar
 
 ## Five Key Services
 There are five UCL services that we consider especially important for all users across the UCL campus. Other services will be supported by the project on a best-efforts basis.
-- [Filestore@UCL](../Filestore)
-- [print@UCL](../Print-UCL)
+- [Filestore@UCL](/Filestore)
+- [print@UCL](/Print-UCL)
 - Remote Access, which is comprised of:
-  - [Desktop@UCL Anywhere](../Desktop-Anywhere)
-  - [UCL VPN](../VPN)
-- [live@UCL](../Office-365) - the Email and Calendar components of Office 365
+  - [Desktop@UCL Anywhere](/Desktop-Anywhere)
+  - [UCL VPN](/VPN)
+- [live@UCL](/Office-365) - the Email and Calendar components of Office 365
 - Networking, which is comprised of:
   - eduroam Wi-Fi
   - Wired Ethernet
