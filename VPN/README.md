@@ -7,6 +7,12 @@ To decide if VPN is the right solution for a given user, first you need to under
 ### What is VPN?
 VPN (Virtual Private Networking) is a method for users to connect to a private network by creating a 'tunnel' through the global public Internet (or through another private network in some circumstances). For the context of this document, UCL VPN is referring to the central VPN service offered to all UCL users that puts their computer inside the UCL network.
 
+*When connected to the UCL Remote Access VPN Service, ALL your traffic will be sent through
+the UCL network, regardless of whether the destination is a UCL address or an address on the
+Internet.
+All users must be aware of this fact and abide by the UCL Computing Regulations and the Janet
+Acceptable Use Policy when connecting to the Remote Access VPN Service.*
+
 ### When to use the UCL VPN?
 Use the UCL VPN when a user wants to put their computer on the UCL network from home. This is an excellent solution for when a user's computer is already set up to connect to the UCL services they want to use (e.g. Filestore@UCL).
 
