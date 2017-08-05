@@ -8,7 +8,7 @@
 # up to five times, on the sixth login encrption will be mandatory.
 #
 if [[ $EUID -ne 0 ]]; then
-   echo "This script must be run as with administrator privileges. Please try again using sudo."
-   exit 1
+  echo "This script must be run with administrator privileges. Please try again using sudo."
+  exit 1
 fi
 fdesetup enable -defer /recovery.plist -forceatlogin 5

@@ -4,8 +4,8 @@
 # with sudo from the same directory as your public (deployment)
 # FileVaultMaster.keychain
 if [[ $EUID -ne 0 ]]; then
-   echo "This script must be run as with administrator privileges. Please try again using sudo."
-   exit 1
+  echo "This script must be run with administrator privileges. Please try again using sudo."
+  exit 1
 fi
 cp FileVaultMaster.keychain /Library/Keychains/FileVaultMaster.Keychain
 chown root:wheel /Library/Keychains/FileVaultMaster.keychain
