@@ -62,7 +62,7 @@ Many people need to have full disk encryption to meet security requirements. Alm
 There are multiple cases where a user may need to migrate their home folder from one computer to another, or from one account to another on the same computer (e.g. from a local account to a domain account).
 ---
 ## eduroam
-'eduroam (education roaming) is the secure, world-wide roaming access service developed for the international research and education community.'
+*'eduroam (education roaming) is the secure, world-wide roaming access service developed for the international research and education community.'*
 
 \- [eduroam.org](https://www.eduroam.org)
 +++
