@@ -38,10 +38,12 @@ These five services will receive full support from ISD. We're here today mainly 
 +++
 ### GitHub
 All the materials you'll see today are hosted on GitHub, where you'll find detailed help and resources for using them:
+
 https://github.com/UCL/Mac-Support-Resources
 +++
 ### Slack
 Communicate with us, share you experiences, and get help from each other with Slack:
+
 https://ucl-mac-support.slack.com/
 ---
 ## macOS Support
@@ -66,8 +68,10 @@ There are multiple cases where a user may need to migrate their home folder from
 +++
 ### Connections Basics
 For most users, getting started is simple. Select `eduroam` from the WiFi menu and enter:
-`userID@ucl.ac.uk`
-`UCL password`
+
+Username: `userID@ucl.ac.uk`
+
+Password: `UCL password`
 +++
 ### 802.1x Profile Removal
 Sometimes this goes wrong, the most common reason is because of a profile from another participating institution. Let's remove that profile!
@@ -88,18 +92,20 @@ Other clients can only be supported on a best-efforts basis. If users encounter 
 Remote access means allowing people to connect to UCL resources through the global public Internet.
 +++
 ### VPN
-VPN puts a user's computer on the UCL network directly.
+VPN puts a user's computer on the UCL network directly. Users will need the Cisco AnyConnect client and Sophos anti-virus.
 +++
 ### Desktop@UCL Anywhere
 Desktop@UCL Anywhere provides the user with a Windows Server 2008 Citrix remote desktop experience.
 ---
 ## Filestore@UCL
 Filestore@UCL provides each user with a 100 GB home folder (Home) and provides access to shared folders (GroupFolders), all stored on the central UCL NetApp infrastructure.
++++
 ### Connection Paths
 For GroupFolders ('S-Drive'): `smb://ad.ucl.ac.uk/GroupFolders`
 For Home ('N-Drive'): `smb://ad.ucl.ac.uk/HomeG/abcdefg` where:
   * abcdefg is the user's userID
   * G is the last character of their userID
++++
 ### Non-DFS
 If DFS fails, please use the [UCL DFS Query Tool](http://webdfs01.ad.ucl.ac.uk/dfs-query/).
 ---
