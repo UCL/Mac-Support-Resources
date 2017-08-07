@@ -102,6 +102,7 @@ Filestore@UCL provides each user with a 100 GB home folder (Home) and provides a
 +++
 ### Connection Paths
 For GroupFolders ('S-Drive'): `smb://ad.ucl.ac.uk/GroupFolders`
+
 For Home ('N-Drive'): `smb://ad.ucl.ac.uk/HomeG/abcdefg` where:
   * abcdefg is the user's userID
   * G is the last character of their userID
