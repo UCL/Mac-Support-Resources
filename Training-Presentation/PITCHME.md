@@ -117,7 +117,11 @@ print@UCL is the centrally managed printing service, allowing users to pick up j
 Use the [print@UCL Install](https://github.com/UCL/Mac-Support-Resources/blob/master/Print-UCL/Print-UCL-Install/Print%20UCL%20Install.zip) app, located on the UCL-Mac-Support GitHub repo, to create the print@UCL queue. Drivers will automatically download if needed.
 +++
 ### Manual Setup
-Install the Xerox printer support software, then add an SMB printer: `smb://print.ucl.ac.uk/print-UCL` using the Xerox WorkCentre 7655 driver.
+Install the Xerox printer support software, then add an SMB printer:
+
+`smb://print.ucl.ac.uk/print-UCL`
+
+using the Xerox WorkCentre 7655 driver.
 ---
 ## Playground Time!
 I've talked quite enough, it's time to play with the things we've tried, and ask questions. The rest of this session is time for you to try things you want and to ask me questions. Let's learn together!
