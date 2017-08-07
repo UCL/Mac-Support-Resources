@@ -9,7 +9,14 @@ if [[ $EUID -ne 0 ]]; then
   echo "This script must be run with administrator privileges. Please try again using sudo."
   exit 1
 fi
-cp FileVaultMaster.keychain /Library/Keychains/FileVaultMaster.Keychain
-chown root:wheel /Library/Keychains/FileVaultMaster.keychain
-chmod 644 /Library/Keychains/FileVaultMaster.keychain
-fdesetup enable -keychain
+if test -e FileVaultMaster.keychain; then
+    echo "FileVaultMaster found, please enter boot credentials."
+    cp FileVaultMaster.keychain /Library/Keychains/FileVaultMaster.Keychain
+    chown root:wheel /Library/Keychains/FileVaultMaster.keychain
+    chmod 644 /Library/Keychains/FileVaultMaster.keychain
+    fdesetup enable -keychain
+    exit 0
+else
+    echo "No FileVaultMaster.keychain found, exiting."
+    exit 1
+fi
