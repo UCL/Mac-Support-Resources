@@ -4,13 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/Scripts/main.rtf</key>
-		<data>
-		LxZ2/rIczHWhDvRy32LFwM5U/OQ=
-		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		nPMX0HNY6km0+F0tvOqd5TXa4Z0=
+		nZ45LaJO1Tn0RKq0FqydXTm38mg=
 		</data>
 		<key>Resources/Xerox WorkCentre 7655.gz</key>
 		<data>
@@ -22,7 +18,7 @@
 		</data>
 		<key>Resources/applet.rsrc</key>
 		<data>
-		PkjtimB0EBzzOvmrQX0E86xyk/I=
+		EwOmI2Jz2V3ZKU25+8uUQ9w/yhM=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -31,26 +27,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/Scripts/main.rtf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LxZ2/rIczHWhDvRy32LFwM5U/OQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			j39gZKTrBa9DCSMrPjfobMGmGNLzCaEgRntJKvS94lE=
-			</data>
-		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nPMX0HNY6km0+F0tvOqd5TXa4Z0=
+			nZ45LaJO1Tn0RKq0FqydXTm38mg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y5u0OhMEE5ZqLYSYczg7vnxcl5KG9Bzil6+pVGEGTto=
+			HWsC9MQmZ2fFtY4RZNgtCMr9OkBQzsbxHubOiH5TdJU=
 			</data>
 		</dict>
 		<key>Resources/Xerox WorkCentre 7655.gz</key>
@@ -79,11 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PkjtimB0EBzzOvmrQX0E86xyk/I=
+			EwOmI2Jz2V3ZKU25+8uUQ9w/yhM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XqpQwXtG1X0NqGFg94ZiWqATWHl8nqkf4eYk3IjhYR4=
+			3eZcUVDc3c1HmzP7nmm1QLwJfvQGuaq1B6JCG/mLYgo=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
