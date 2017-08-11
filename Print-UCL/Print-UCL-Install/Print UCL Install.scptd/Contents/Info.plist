@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Print UCL Install</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3</string>
+	<string>1.4</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
@@ -23,7 +23,7 @@
 		<key>positionOfDivider</key>
 		<real>488</real>
 		<key>savedFrame</key>
-		<string>305 38 975 739 0 0 1280 777 </string>
+		<string>296 32 975 739 0 0 1280 777 </string>
 		<key>selectedTab</key>
 		<string>log</string>
 	</dict>
