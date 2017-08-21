@@ -1,5 +1,5 @@
 # UCL Mac Support Service
-Intro Training Session
+Intro Welcome Session
 ---
 ## Why are we here?
 +++
@@ -30,11 +30,15 @@ Students and education. We're here to support the teaching and research of UCL. 
 ### What are we offering for the 'big five'?
 These five services will receive full support from ISD. We're here today mainly to learn about how we can better support and troubleshoot these services for our users.
 ---
+## macOS
+In order to support these five services, we'll also need to know and understand how to use the Mac itself. About half of our time today will be spent talking about the Mac, about a quarter on UCL services, and the remainder for questions and free time.
+---
 *'True simplicity is derived from so much more than just the absence of clutter and ornamentation. It's about bringing order to complexity.''*
 
 \- Sir Jony Ive, Chief Design Officer, Apple
 +++
 ## Two Simple Resources
+There are two resources we will use for supporting both the 'big five' UCL services and for supporting Macs themselves.
 +++
 ### GitHub
 All the materials you'll see today are hosted on GitHub, where you'll find detailed help and resources for using them:
@@ -46,8 +50,33 @@ Communicate with us, share you experiences, and get help from each other with Sl
 
 https://ucl-mac-support.slack.com/
 ---
-## macOS Support
-In order to support services on Mac, we must provide basic support for Macs themselves.
+## Bash and AppleScript
+We will be using the bash shell and AppleScript for a lot of our work. They let us automate macOS and make your work easier
++++
+### What is AppleScript?
+AppleScript is Apple's scripting language available since System 7. The Script Editor built into macOS lets you develop and distribute AppleScript. AppleScript for the project will be packaged as signed apps for end users.
++++
+### What is bash?
+The Bourne Again SHell is a GNU Project free software alternative to the Bourne Shell. Aka it's a command processor.
++++
+### Time for a bash script!
++++?code=Training-Presentation/profilemigrationexample.sh
+
+@[1](Shebang - specify your interpreter!)
+@[2-5](Hashes make comments)
+@[7](Let people know what your script does in the comments)
+@[8-11](`if`-`fi` statements only do something if a condition is met, in this case if the current EUID is *not* 0)
+@[12](Keep those comments coming so people can understand!)
+@[13](echo prints something in the user's shell)
+@[15-18](read collects a variable, `-p` creates a prompt)
+@[20-21](test allows one to perform various tests and return true or false, in this case `-e` tests if a file exists)
+@[22-23](exit codes set the status of how the script completed, 1 is a general error, 0 is normal)
+@[27](`$` reads a variable, and standard commands like `mv` are all available)
+@[28](If you're not already familiar, `chown` - change owner - changes the owner of a file or directory)
+@[29-31](And that's it! Who knows what this script just did?)
+---
+## macOS Tips and Tricks
+Before we get into the UCL services, let's talk about a few tips and tricks around the OS. We will use bash and AppleScipt to help support both the OS and UCL-specific services!
 +++
 ### Assistive Technology
 Apple puts accessibility at the forefront in all they do, and we should aim to do the same. Every student, every researcher, every staff member, every person on Earth deserves the same opportunities to learn, work and grow. We should support all users in any way necessary to have the technology they need to thrive.
