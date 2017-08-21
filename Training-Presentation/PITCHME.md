@@ -89,6 +89,9 @@ Many people need to have full disk encryption to meet security requirements. Alm
 +++
 ### Profile Migration
 There are multiple cases where a user may need to migrate their home folder from one computer to another, or from one account to another on the same computer (e.g. from a local account to a domain account).
++++
+### Apple Remote Desktop
+The most basic remote management tool is Apple Remote Desktop (ARD). ARD can be used to remote manage Macs if you have admin SSH access and the Mac is turned on. It's a great way to remotely run a script!
 ---
 ## eduroam
 *'eduroam (education roaming) is the secure, world-wide roaming access service developed for the international research and education community.'*
@@ -154,6 +157,11 @@ using the Xerox WorkCentre 7655 driver.
 ---
 ## Playground Time!
 I've talked quite enough, it's time to play with the things we've tried, and ask questions. The rest of this session is time for you to try things you want and to ask me questions. Let's learn together!
++++
+### Some Challenges
+1. Make a bash script
+2. Try three accessibility features
+3. Remote control a Mac with ssh
 ---
 ## Thank You!
 Thank you for your time today, now let's all go out and give our students and staff excellent service to help make IT accessible and useful for every person.
