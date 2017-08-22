@@ -107,10 +107,6 @@ Password: `UCL password`
 +++
 ### 802.1x Profile Removal
 Sometimes this goes wrong, the most common reason is because of a profile from another participating institution. Let's remove that profile!
-+++
-### Signal Testing
-![WiFi Menu](Training-Presentation/WiFi-Menu.png)
-⌥ - Wi-Fi Menu
 ---
 ## live@UCL
 live@UCL is the email and calendar services from Office 365. Other Office 365 services are supported on a best efforts basis only.
