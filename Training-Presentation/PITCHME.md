@@ -163,5 +163,20 @@ I've talked quite enough, it's time to play with the things we've tried, and ask
 2. Try three accessibility features
 3. Remote control a Mac with ssh
 ---
+## Apple Purchasing
+I frequently get questions about how to purchase Macs. We buy through the National Apple HE Framework, which is ranked with four suppliers. Further info on UCL's [Apple procurement page](https://www.ucl.ac.uk/procurement/agreements/computer-equip-suppliers/apple).
++++
+### No. 1 - Academia
+Register and get quotes from [Academia's Apple HE online portal](https://applehe.academia.co.uk).
++++
+### No. 2 - XMA
+Register and get quotes from [XMA's HE Hub](https://he.xma.co.uk/). Currently (2017-08-23) offering an extra year of warranty coverage standard.
++++
+### No. 3 - Stone
+Currently (2017-08-23) not servicing most requests.
++++
+### No. 4 - Insight
+Please request quotations from [John Southwood](mailto:john.southwood@insight.com).
+---
 ## Thank You!
 Thank you for your time today, now let's all go out and give our students and staff excellent service to help make IT accessible and useful for every person.
