@@ -10,7 +10,7 @@ Two questions need answered:
 1. Is using DFS reliable on macOS in any situation?
 2. If so, are their any OS versions or configurations for which it isn't reliable?
 ## How can we test?
-A configuration for each OS, network, domain combination is available in the GitHub [DFS Testing Project](https://github.com/UCL/Mac-Support-Resources/projects/2). Please move a configuration you wish to test to 'in progress' and test authentication, file types, nested folders, stability and permissions for that configuration as below:
+A configuration for each OS, network, domain combination is available in the GitHub [DFS Testing Project](https://github.com/UCL/Mac-Support-Resources/projects/2). Please move a configuration you wish to test to 'in progress' and add your name to the note. Then test authentication, file types, nested folders, stability and permissions for that configuration as below:
 * OS Version
     - 10.13 beta
     - 10.12
