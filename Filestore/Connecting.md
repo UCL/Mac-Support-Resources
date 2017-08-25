@@ -4,9 +4,9 @@ To connect, step-by-step, to file storage, do the following:
 1. In Finder, select the 'Go' menu, then 'Connect to Server'. Alternatively, Command-K is the shortcut to this option.
 2. In 'Server Address', enter:
   * For GroupFolders ('S-Drive'): `smb://ad.ucl.ac.uk/GroupFolders`
-  * For Home ('N-Drive'): `smb://ad.ucl.ac.uk/HomeG/abcdefg` where:
-    * abcdefg is the user's userID
-    * G is the last character of their userID
+  * For Home ('N-Drive'): `smb://ad.ucl.ac.uk/HomeD/userid` where:
+    * userid is the user's userID
+    * D is the last character of their userID
 3. Click the '+' icon to the right of the address box to add the server as a favourite (optional, but useful so the user can easily find it again in future).
 4. Click 'Connect'.
 5. Complete any required authentication steps (varies based on domain join status, below).
