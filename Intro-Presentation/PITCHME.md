@@ -21,7 +21,7 @@ We're looking to create a solid foundation for Mac support service across UCL, a
 - Critical to other services <!-- .element: class="fragment" -->
 +++
 ### What are we offering for the 'big five'?
-These five services will receive full support from ISD. We're here today mainly to learn about how we can better support and troubleshoot these services for our users.
+These five services will receive full support from ISD. Our focus is on how we can best support these services for everyone across UCL.
 +++
 ### Some Challenges
 We've had to fight some major roadblocks (DFS, eduroam, etc)
@@ -33,7 +33,7 @@ In order to support these five services, we'll also need to know and understand 
 We have put together some resources to help everyone supporting Macs at UCL work collaboratively and help us avoid repeating work.
 +++
 ### GitHub
-All the materials you'll see today are hosted on GitHub, where you'll find detailed help and resources for using them:
+All the materials we have created are hosted on GitHub, where you'll find detailed help and resources for using them. Please feel free to raise issues on GitHub, we are working on these actively.
 
 https://github.com/UCL/Mac-Support-Resources
 +++
