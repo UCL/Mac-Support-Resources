@@ -1,5 +1,5 @@
 # UCL Mac Support Service
-Introduction and Q/A
+Introduction and Q&A
 by Alex Uhde
 ---
 ## Accessibility
@@ -45,5 +45,7 @@ https://ucl-mac-support.slack.com/
 ### NoMAD
 The project GitHub repo contains a config file for NoMAD to customise it for UCL. This is provided with no ISD support, but we're happy to help as a project if you want to roll it out.
 ---
-## Thank You!
+## Thank You
 Thank you for your time today, now let's all go out and give our students and staff excellent service to help make IT accessible and useful for every person.
++++
+## Questions & Answers
