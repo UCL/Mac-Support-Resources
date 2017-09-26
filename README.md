@@ -21,4 +21,4 @@ There are five UCL services that we consider especially important for all users 
   - Wired Ethernet
 
 ## Find Us on Slack
-Anyone with a UCL email address can [join our Slack team](https://ucl-mac-support.slack.com) and chat with the project team and each other.
+Anyone with a UCL email address can [join our Slack workspace](https://ucl-mac-support.slack.com) and chat with the project team and each other.
